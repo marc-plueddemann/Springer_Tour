@@ -15,7 +15,7 @@ board2 =  ([[0,x,x,x,x,x],
             [x,x,1,x,x,x],
             [x,x,x,x,x,x],
             [x,2,x,x,x,x],
-            [x,x,x,x,x,x]], 2, 3, 2)
+            [x,x,x,x,x,x]], 3, 1, 2)
 
 # produces the output seen in empty_field_5x6.txt after about 1 minute
 board3 =  ([[0,x,x,x,x,x],[x,x,x,x,x,x],[x,x,x,x,x,x],[x,x,x,x,x,x],[x,x,x,x,x,x]], 0, 0, 0)

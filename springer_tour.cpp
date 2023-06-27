@@ -173,8 +173,11 @@ int main(int argc, char** argv) {
     .cols = 4,
     .rows = 4,
   };
-  print_board(board3);
-  board3 = fill_board(board3);
-  print_board(board3);
+
+  Board board = board2;
+  
+  print_board(board);
+  board = fill_board(board);
+  print_board(board);
   return 0;
 }
